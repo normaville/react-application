@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>The Boy Who Cried Wolf</h1>
+      <h1>Swan Lake</h1>
     </header>
   );
 }

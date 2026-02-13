@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <header>
-      <h1>The Boy Who Cried Wolf</h1>
+      <footer>Moral: Inner grace and love frees oneself from the shackles of an unfortunate situation. </footer>
     </header>
   );
 }
