@@ -1,1 +1,16 @@
-Steps to run the app go here.
+This is a one-page site describing the events of Swan Lake along with providing the moral of the story.
+
+## Project Structure
+- **Header**: Story title
+- **Content**: Story summary
+- **Footer**: Moral of the story
+
+## How to Setup
+
+### 1. Clone or Download the repository
+Navigate to the project folder in your terminal.
+
+### 2. Install Dependencies
+Run the following command to install the necessary packages:
+```bash
+`npm install`

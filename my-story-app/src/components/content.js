@@ -1,6 +1,12 @@
+import swanLake from './swanLake.jpg';
+
 function Content() {
   return (
     <main>
+     <img 
+        src={swanLake}
+        alt="Swan Lake"
+     />
       <p>Swan Lake is a classical ballet depicting the tragic romance between Prince Siegfried and Princess Odette, a woman cursed by the evil sorcerer Von Rothbart to be a swan by day. Siegfried vows true love to break the spell, but is tricked into pledging himself to Odile, Von Rothbart's daughter, leading to a tragic end at the lake. </p>
 
       <p>There are four acts in the story:</p>
